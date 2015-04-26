@@ -10,6 +10,7 @@ namespace GetTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
